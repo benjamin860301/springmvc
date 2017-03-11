@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="servlet-api-2.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" recursive="false" type="SOURCES" />
+  </library>
+</component>
